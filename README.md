@@ -1,5 +1,5 @@
-Small project I did for learning how to webscrape using python + mongodb. <br / >
-Mainly followed John Watson Rooney's tutorial on YouTube. Title: Try this Web Scraping Project with Mongodb (Code Along) <br />
+Small project I did for learning how to webscrape using python + mongodb. <br />
+Mainly followed John Watson Rooney's tutorial on YouTube. Title: Try this Web Scraping Project with Mongodb (Code Along). <br />
 
 ## Website Used
 - [Fully Booked](https://fullybookedonline.com)  
